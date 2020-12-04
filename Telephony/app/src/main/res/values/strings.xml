@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Telephony</string>
+    <string name="contact1">Contact 1</string>
+    <string name="call1">Call</string>
+    <string name="num1">09092346178</string>
+    <string name="sms1">SMS</string>
+    <string name="call">call</string>
+    <string name="contact2">Contact 2</string>
+</resources>

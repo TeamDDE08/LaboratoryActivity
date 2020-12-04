@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+    <string name="welcome">WELCOME</string>
+    <string name="register1">Register</string>
+    <string name="userLogIn">Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="logIn">Log In</string>
+    <string name="cancel">Cancel</string>
+</resources>
